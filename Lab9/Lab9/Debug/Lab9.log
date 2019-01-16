@@ -1,0 +1,9 @@
+﻿  Triangle.c
+c:\users\raja\documents\cis308\lab9\lab9\triangle.c(8): warning C4013: 'malloc' undefined; assuming extern returning int
+  Square.c
+c:\users\raja\documents\cis308\lab9\lab9\square.c(10): warning C4013: 'malloc' undefined; assuming extern returning int
+  Source.c
+  Shape.c
+  Generating Code...
+  Lab9.vcxproj -> C:\Users\Raja\Documents\CIS308\Lab9\Debug\Lab9.exe
+  Lab9.vcxproj -> C:\Users\Raja\Documents\CIS308\Lab9\Debug\Lab9.pdb (Partial PDB)

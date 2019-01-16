@@ -1,0 +1,7 @@
+﻿  proj2.c
+c:\users\raja\source\repos\proj2\proj2\proj2.c(17): warning C4013: 'malloc' undefined; assuming extern returning int
+c:\users\raja\source\repos\proj2\proj2\proj2.c(17): warning C4047: '=': 'NODE *' differs in levels of indirection from 'int'
+c:\users\raja\source\repos\proj2\proj2\proj2.c(18): warning C4047: '=': 'NODE *' differs in levels of indirection from 'int'
+c:\users\raja\source\repos\proj2\proj2\proj2.c(26): warning C4013: 'printf_s' undefined; assuming extern returning int
+c:\users\raja\source\repos\proj2\proj2\proj2.c(35): warning C4047: 'initializing': 'NODE *' differs in levels of indirection from 'int'
+  proj2.vcxproj -> C:\Users\Raja\source\repos\proj2\Debug\proj2.exe
